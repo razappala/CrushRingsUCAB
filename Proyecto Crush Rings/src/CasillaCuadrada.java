@@ -1,0 +1,1 @@
+public class CasillaCuadrada extends Casilla<FichaCircular, CasillaCuadrada> {} //relacion de herecia en la forma de la casilla

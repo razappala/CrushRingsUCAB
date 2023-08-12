@@ -1,0 +1,1 @@
+public class FichaTriangular extends Ficha{} // Relacion de herencia en la forma de la ficha
